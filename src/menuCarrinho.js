@@ -1,4 +1,4 @@
-import { catalogo } from "./utilidades";
+import { catalogo } from "./utilidades.js";
 
 const idsProdutoCarrinhoComQuantidade = {};
 
